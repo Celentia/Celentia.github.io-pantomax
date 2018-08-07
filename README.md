@@ -1,1 +1,1 @@
-# technical_task.github.io
+# Pantomax.github.io
